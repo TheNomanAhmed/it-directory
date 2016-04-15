@@ -48,42 +48,42 @@ OpenBazaar.org
 
 
 ### VIRTUAL REALITY
-http://www.roadtovr.com/ 
-https://unimersiv.com/ 
-http://uploadvr.com/ 
-http://www.janusvr.com/ 
-http://webvr.info/ 
-https://aframe.io/ 
-http://www.roadtovr.com/ 
-https://vr.chromeexperiments.com/ 
-https://www.renderloop.com/ 
-http://www.graphinesoftware.com/ 
-http://www.nextvr.com/gearvr-live 
-http://casques-vr.com/ 
-http://www.wareable.com/vr 
-http://www.youvisit.com/ 
-https://forums.oculus.com 
-VRTube.xxx 
+http://www.roadtovr.com/  
+https://unimersiv.com/  
+http://uploadvr.com/  
+http://www.janusvr.com/  
+http://webvr.info/  
+https://aframe.io/  
+http://www.roadtovr.com/  
+https://vr.chromeexperiments.com/  
+https://www.renderloop.com/  
+http://www.graphinesoftware.com/  
+http://www.nextvr.com/gearvr-live  
+http://casques-vr.com/  
+http://www.wareable.com/vr  
+http://www.youvisit.com/  
+https://forums.oculus.com  
+VRTube.xxx   
 
 ### GROW  SITES 
-http://www.growhack.com
-http://growthhackers.com/
-http://growthtools.io
-http://vincentdignan.com/
-http://www.new-startups.com/
-https://justreachout.io/
-http://nouncy.com/
-http://pre-launch.io/
-http://joingiftt.com/
-https://growthhackers.com/
-http://www.appvirality.com/blog/
-http://www.tractioncourse.com/
-https://startuplister.com
-http://www.approachable.io/
-https://maitreapp.co/
-http://conorth.co/
-http://www.nowfuckinggrow.com/
-https://learningtolaunch.co/
+http://www.growhack.com  
+http://growthhackers.com/  
+http://growthtools.io  
+http://vincentdignan.com/  
+http://www.new-startups.com/  
+https://justreachout.io/  
+http://nouncy.com/  
+http://pre-launch.io/   
+http://joingiftt.com/  
+https://growthhackers.com/  
+http://www.appvirality.com/blog/  
+http://www.tractioncourse.com/  
+https://startuplister.com  
+http://www.approachable.io/  
+https://maitreapp.co/  
+http://conorth.co/  
+http://www.nowfuckinggrow.com/  
+https://learningtolaunch.co/  
 
 
 ### SUBMIT LIST
