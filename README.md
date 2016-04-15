@@ -2,68 +2,68 @@
 
 
 ### AGILE
-icescrum
-taiga
-trello
+icescrum 
+taiga 
+trello 
 
 ### OFFICE
-https://www.bird-office.com/
+https://www.bird-office.com/ 
 
 ### HOSTING
-http://habem.us/
+http://habem.us/ 
 
 ### NEWS FUN
-https://californiasunday.com/
-https://this.cm/
-http://thegadgetflow.com/
+https://californiasunday.com/ 
+https://this.cm/ 
+http://thegadgetflow.com/ 
 
 ### WEBMASTERS
-https://kloudsec.com
-http://userinput.io/
-http://www.bugreplay.com/
-https://website.grader.com/
+https://kloudsec.com 
+http://userinput.io/ 
+http://www.bugreplay.com/ 
+https://website.grader.com/ 
 
 ### MOBILE
-http://bootsy.io/
+http://bootsy.io/ 
 
 
 ### JURIDIQUE
-http://www.juristesdunumerique.fr/
+http://www.juristesdunumerique.fr/ 
 
 
 ### ALLS
-http://www.listhunt.co/12-new-startups-apps-gadgets-millennials-should-care-about-today-7615/
+http://www.listhunt.co/12-new-startups-apps-gadgets-millennials-should-care-about-today-7615/ 
 
 ### IOT
-https://www.shodan.io/
+https://www.shodan.io/ 
 
 ### FUTUR/DISRUPTIF
-http://interestingengineering.com/
-https://blockchainfrance.wordpress.com/
-http://www.maddyness.com/prospective/2016/01/27/blockchain-applications-business/?utm_source=MaddyNews&utm_campaign=f28f35804d-NewsletterHebdo&utm_medium=email&utm_term=0_0800d260f2-f28f35804d-70425985
-http://vivreen2030.alliancy.fr/
-http://www.futura-sciences.com/
-OpenBazaar.org
+http://interestingengineering.com/ 
+https://blockchainfrance.wordpress.com/ 
+http://www.maddyness.com/prospective/2016/01/27/blockchain-applications-business 
+http://vivreen2030.alliancy.fr/ 
+http://www.futura-sciences.com/  
+OpenBazaar.org 
 
 
 
 ### VIRTUAL REALITY
-http://www.roadtovr.com/
-https://unimersiv.com/
-http://uploadvr.com/
-http://www.janusvr.com/
-http://webvr.info/
-https://aframe.io/
-http://www.roadtovr.com/
-https://vr.chromeexperiments.com/
-https://www.renderloop.com/
-http://www.graphinesoftware.com/
-http://www.nextvr.com/gearvr-live
-http://casques-vr.com/
-http://www.wareable.com/vr
-http://www.youvisit.com/
-https://forums.oculus.com
-VRTube.xxx
+http://www.roadtovr.com/ 
+https://unimersiv.com/ 
+http://uploadvr.com/ 
+http://www.janusvr.com/ 
+http://webvr.info/ 
+https://aframe.io/ 
+http://www.roadtovr.com/ 
+https://vr.chromeexperiments.com/ 
+https://www.renderloop.com/ 
+http://www.graphinesoftware.com/ 
+http://www.nextvr.com/gearvr-live 
+http://casques-vr.com/ 
+http://www.wareable.com/vr 
+http://www.youvisit.com/ 
+https://forums.oculus.com 
+VRTube.xxx 
 
 ### GROW  SITES 
 http://www.growhack.com
