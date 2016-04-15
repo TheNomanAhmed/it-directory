@@ -87,61 +87,60 @@ https://learningtolaunch.co/
 
 
 ### SUBMIT LIST
-http://presshour.co/
-https://startuplister.com/list-of-startup-directories/
-http://promotehour.com/  list submission startup
-https://github.com/mmccaff/PlacesToPostYourStartup
-http://ninjaoutreach.com/startup-directories/
-http://thestartupvideos.com/video-tips/monster-list-startup-submission-sites-free-listing/
-https://igostartup.com/places-to-submit-your-startup
-http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup/
-http://www.inboundio.com/blog/27-websites-to-submit-your-startup/
-https://growthlist.co/
+http://presshour.co/  
+https://startuplister.com/list-of-startup-directories/  
+http://promotehour.com/  list submission startup  
+https://github.com/mmccaff/PlacesToPostYourStartup  
+http://ninjaoutreach.com/startup-directories/  
+http://thestartupvideos.com/video-tips/monster-list-startup-submission-sites-free-listing/  
+https://igostartup.com/places-to-submit-your-startup  
+http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup/  
+http://www.inboundio.com/blog/27-websites-to-submit-your-startup/  
+https://growthlist.co/  
 
 ### GAMES
-http://bad.city
-https://lightsaber.withgoogle.com/
-http://insights.dice.com/2015/12/16/code-your-own-star-wars-lightsaber/
-https://developers.google.com/web/showcase/case-study/lightsaber
+http://bad.city  
+https://lightsaber.withgoogle.com/  
+http://insights.dice.com/2015/12/16/code-your-own-star-wars-lightsaber/  
+https://developers.google.com/web/showcase/case-study/lightsaber  
 
 ### VENTURE / INVESTORS / ASSOS / INCUBATOR
-http://www.franceangels.org
-http://tomtunguz.com/
-http://www.venturefocus.org/
-http://launchthisyear.com/
-http://www.knokal.com/
-https://closeround.com/
-https://www.smartangels.fr
-https://closeround.com/
-http://www.qiymat.com/
-https://closeround.com/
-https://matchboard.co/
-http://rocketreach.co/
-https://investorlist.co/
-http://shotpitch.com
-www.angelsquare.co
-http://www.francedigitale.org/
-http://www.capdigital.com/
-http://pitchoun.via-innova.com/
+http://www.franceangels.org  
+http://tomtunguz.com/  
+http://www.venturefocus.org/  
+http://launchthisyear.com/  
+http://www.knokal.com/  
+https://closeround.com/  
+https://www.smartangels.fr  
+https://closeround.com/  
+http://www.qiymat.com/  
+https://closeround.com/  
+https://matchboard.co/  
+http://rocketreach.co/  
+https://investorlist.co/  
+http://shotpitch.com  
+http://www.angelsquare.co  
+http://www.francedigitale.org/  
+http://www.capdigital.com/  
+http://pitchoun.via-innova.com/  
 
 
 ### ADVERTISING
-http://sublimeskinz.com/
-http://www.thalamus.co/
-ADventori
-https://www.chartboost.com/
-https://my.tapjoy.com/
-http://www.mopub.com
+http://sublimeskinz.com/  
+http://www.thalamus.co/  
+ADventori  
+https://www.chartboost.com/  
+https://my.tapjoy.com/  
+http://www.mopub.com  
 
 
 ### STREAMING
-https://popcorntime.io/
-http://www.awwwards.com/creative-ui-design-examples-for-great-
-.html
+https://popcorntime.io/  
+
 
 ### INNOVATION
-http://www.actinnovation.com/
-http://interestingengineering.com/
+http://www.actinnovation.com/  
+http://interestingengineering.com/  
 
 
 ### ANNUAIRE MEMBER/LINK
@@ -151,276 +150,271 @@ http://www.meetup.com/fr/Toulouse-Android-User-Group/events/221808977/*
 
 
 ##TECH
-http://www.influencia.net/fr/
-venturebeat.com
+http://www.influencia.net/fr/  
+venturebeat.com  
 
 ### WEBTV
-http://www.xerficanal.com/
+http://www.xerficanal.com/  
 
 ### MASHUP
-http://www.programmableweb.com/
+http://www.programmableweb.com/  
 
 
 ### APPS MOBILE 
-http://www.ioscookies.com/
-https://appstarter.io/
-http://arkenea.com/blog/
-http://principlerepo.com/
-http://principleformac.com/
+http://www.ioscookies.com/  
+https://appstarter.io/  
+http://arkenea.com/blog/  
+http://principlerepo.com/  
+http://principleformac.com/  
 
 
 ### TOULOUSE
-http://design-services.fr/
-http://workdesigners.com/
-http://www.frenchtechtoulouse.com/
+http://design-services.fr/  
+http://workdesigners.com/  
+http://www.frenchtechtoulouse.com/  
 
 ### COWORKING/TRAVEL / NOMADS
-http://lacantine-toulouse.org/
-https://nomadlist.com/
-http://wesh.im/
-www.wifimap.io
-https://crew.co/coffee-power/
-http://hubitus.com/
-http://www.coworker.com/
-http://www.hubsy.fr/
-http://launch.mobshr.com/
-https://www.nevereatalone.io/
-https://nomadhouse.io
-http://blog.studiomates.com/
-http://hubitus.com/
-http://www.coworker.com/
-http://coworkercoffee.com/#top
-https://www.frenchfounders.com/
-https://nomadprojects.io/
-http://getflio.com/
-https://www.roam.co
-http://outsite.co/
-http://www.legalnomads.com/digital-nomads
-http://www.cohome.in/
+http://lacantine-toulouse.org/  
+https://nomadlist.com/  
+http://wesh.im/  
+http://www.wifimap.io  
+https://crew.co/coffee-power/  
+http://hubitus.com/  
+http://www.coworker.com/  
+http://www.hubsy.fr/  
+http://launch.mobshr.com/  
+https://www.nevereatalone.io/  
+https://nomadhouse.io  
+http://blog.studiomates.com/  
+http://hubitus.com/  
+http://www.coworker.com/  
+http://coworkercoffee.com/  
+https://www.frenchfounders.com/  
+https://nomadprojects.io/  
+http://getflio.com/  
+https://www.roam.co  
+http://outsite.co/  
+http://www.legalnomads.com/digital-nomads  
+http://www.cohome.in/  
 
 ### RESOURCES
-http://www.dreamstime.com/         < free images
-www.coverr.co                             < free videos
-http://www.flixapp.co/
-http://vidlogs.com/
-http://startupstash.com/
-http://fribly.com/
-http://www.bookstck.com/
-https://randomuser.me/
-http://uifaces.com/
-http://www.jurismatic.com/
-https://www.legalife.fr/
-http://drocarmo.com/resources/
-http://www.entrepreneur.com/article/247505   *********** STARTUP
-https://blog.kissmetrics.com/entrepreneurs-handbook/
-http://startupweekend.org/resources/
-http://steveblank.com/tools-and-blogs-for-entrepreneurs/#startup-tools
-http://www.getmdl.io/   MATERIAL DESIGN
-http://flatuicolors.com/
-http://digitalsynopsis.com/tools/free-flat-design-icons/
-https://slack.com/
-http://signupfirst.com/
-https://founderskit.co/
-https://www.hellobonsai.com/
-http://paletton.com/
-https://www.legalife.fr/
-https://www.dareboost.com/  
-http://postanly.com/
-http://www.creativitypost.com/
-http://mentalfloss.com/
-http://crowdreference.com/
-https://tools.makerscabin.com/  ***
-getform.org/
-http://www.100daysui.com/
-http://startupresources.io/
-http://www.coworker.com/
-https://unsplash.com/
-https://buffer.com/pablo
-https://buffer.com/daily
-slack.com
-http://www.templateshock.com/
-http://www.flaticon.com/   +DESIGN
-unsplash.com/ + DESIGN
-https://designcode.io + DESIGN
-http://smartmockups.com/ + DESIGN
-http://tabiku.com/ + DESIGN
-http://www.lolcolors.com/ + DESIGN
-http://wallpapergram.com +DESIGN
-http://pivle.com + DESIGN
-http://www.epicpxls.com + DESIGBN
-http://www.goodfreephotos.com + DESIGN
-https://unsplash.com/ + DESIGN
-https://visualhunt.com/  + DESIGN
-http://allthefreestock.com/ + DESIGN
-https://picjumbo.com/ + DESIGN
-https://pixabay.com/
-http://www.imcreator.com/free
-http://www.morguefile.com/
+http://www.dreamstime.com/  
+http://www.coverr.co  
+http://www.flixapp.co/  
+http://vidlogs.com/  
+http://startupstash.com/  
+http://fribly.com/  
+http://www.bookstck.com/  
+https://randomuser.me/  
+http://uifaces.com/  
+http://www.jurismatic.com/  
+https://www.legalife.fr/  
+http://drocarmo.com/resources/  
+http://www.entrepreneur.com/article/247505   *********** STARTUP  
+https://blog.kissmetrics.com/entrepreneurs-handbook/  
+http://startupweekend.org/resources/  
+http://steveblank.com/tools-and-blogs-for-entrepreneurs/#startup-tools  
+http://www.getmdl.io/   MATERIAL DESIGN  
+http://flatuicolors.com/  
+http://digitalsynopsis.com/tools/free-flat-design-icons/  
+https://slack.com/  
+http://signupfirst.com/  
+https://founderskit.co/  
+https://www.hellobonsai.com/  
+http://paletton.com/  
+https://www.legalife.fr/  
+https://www.dareboost.com/    
+http://postanly.com/  
+http://www.creativitypost.com/  
+http://mentalfloss.com/  
+http://crowdreference.com/  
+https://tools.makerscabin.com/  ***  
+getform.org/  
+http://www.100daysui.com/  
+http://startupresources.io/  
+http://www.coworker.com/  
+https://unsplash.com/  
+https://buffer.com/pablo  
+https://buffer.com/daily  
+http://www.templateshock.com/  
+http://www.flaticon.com/   +DESIGN  
+unsplash.com/ + DESIGN  
+https://designcode.io + DESIGN  
+http://smartmockups.com/ + DESIGN  
+http://tabiku.com/ + DESIGN    
+http://www.lolcolors.com/ + DESIGN  
+http://wallpapergram.com +DESIGN  
+http://pivle.com + DESIGN  
+http://www.epicpxls.com + DESIGBN  
+http://www.goodfreephotos.com + DESIGN  
+https://unsplash.com/ + DESIGN  
+https://visualhunt.com/  + DESIGN  
+http://allthefreestock.com/ + DESIGN  
+https://picjumbo.com/ + DESIGN  
+https://pixabay.com/  
+http://www.imcreator.com/free  
+http://www.morguefile.com/  
 http://www.freeimages.com/
-http://picography.co/
-http://getrefe.tumblr.com/
-http://publicdomainarchive.com/
-http://www.gratisography.com/ + DESIGN
-
-http://nos.twnsnd.co/
-https://www.pexels.com/
-http://mmtstock.com/
-http://startupstockphotos.com/
-
-
-http://www.dronestagr.am/
-https://useiconic.com
-http://fontello.com/
-http://launch.flip-7.co.uk/
-https://medium.com/life-learning/77-tools-to-build-a-website-or-app-without-code-cc716b9b507a#.9ia9jy122
-http://elegantt.com/trello/
-slack.io
-http://slackstack.io/?ref=producthunt
-http://www.petite-entreprise.net/
-http://hexwalk.in/
-http://matte.black/01d088
-makerlist.io
-http://blog-fr.orson.io/24/33-outils-et-ressources-pour-startup
-http://jouanito.com/post/97566356351/s%C3%A9lection-de-5-outils-indispensables-pour-lancer
-http://startupresources.io/?ref=producthunt
-https://www.pexels.com
-http://lukyvj.github.io/colofilter.css/
-https://milligram.github.io/
-https://entrepreneur-tools.zeef.com/
-http://digitaltools.directory/
-https://medium.com/swlh/announcing-unsplash-4-0-3421b47d8f88#.mdv4q29s8
+http://picography.co/  
+http://getrefe.tumblr.com/  
+http://publicdomainarchive.com/  
+http://www.gratisography.com/ + DESIGN  
+http://nos.twnsnd.co/  
+https://www.pexels.com/  
+http://mmtstock.com/  
+http://startupstockphotos.com/  
+http://www.dronestagr.am/  
+https://useiconic.com  
+http://fontello.com/  
+http://launch.flip-7.co.uk/  
+https://medium.com/life-learning/77-tools-to-build-a-website-or-app-without-code-cc716b9b507a#.9ia9jy122  
+http://elegantt.com/trello/  
+http://slackstack.io/?ref=producthunt  
+http://www.petite-entreprise.net/  
+http://hexwalk.in/  
+http://matte.black/01d088  
+makerlist.io  
+http://blog-fr.orson.io/24/33-outils-et-ressources-pour-startup  
+http://jouanito.com/post/97566356351/s%C3%A9lection-de-5-outils-indispensables-pour-lancer  
+http://startupresources.io/?ref=producthunt  
+https://www.pexels.com  
+http://lukyvj.github.io/colofilter.css/  
+https://milligram.github.io/  
+https://entrepreneur-tools.zeef.com/  
+http://digitaltools.directory/  
+https://medium.com/swlh/announcing-unsplash-4-0-3421b47d8f88#.mdv4q29s8  
 
 
-https://thepitch.vc/b/the-most-epic-collection-of-podcasts-for-startup-founders/
-http://www.listhunt.co/78-best-new-startup-tools-for-every-type-of-entreprenuer/
-http://www.listhunt.co/11-new-tools-for-entrepreneurs-startup-founders/
+https://thepitch.vc/b/the-most-epic-collection-of-podcasts-for-startup-founders/  
+http://www.listhunt.co/78-best-new-startup-tools-for-every-type-of-entreprenuer/  
+http://www.listhunt.co/11-new-tools-for-entrepreneurs-startup-founders/  
 
 
 
 
 ## FREELANCE
-https://www.hopwork.com
-http://www.freelancer.com/
-https://www.upwork.com/
-http://loot-app.com/
-http://www.elance.com/
-https://www.taskrabbit.com/
-https://fr.fiverr.com/
-http://www.hongkiat.com/blog/50-freelance-job-sites-for-designers-programmers-best-of/
-http://www.itprofil.com
-https://www.trygigster.com
-http://fair.fm/
-https://provideup.com/
-http://signup.1dev.ca/
-http://www.humaniance.com/
-http://www.twago.fr/
-https://www.codeur.com/
-http://www.404works.com/
-http://www.withdesigners.com/
-http://giglrr.com/
-https://www.linkedin.com/profinder
-http://about.guuru.io/
-https://crew.co/
-http://www.konsus.com/
-http://www.missioneo.fr
-http://www.freelance-informatique.fr/
-http://www.freelance-info.fr
-https://portfolio10.com/
-http://www.koder.tech/
-https://www.hellobonsai.com/
-https://hire.bid
+https://www.hopwork.com  
+http://www.freelancer.com/  
+https://www.upwork.com/  
+http://loot-app.com/  
+http://www.elance.com/  
+https://www.taskrabbit.com/  
+https://fr.fiverr.com/  
+http://www.hongkiat.com/blog/50-freelance-job-sites-for-designers-programmers-best-of/  
+http://www.itprofil.com  
+https://www.trygigster.com  
+http://fair.fm/  
+https://provideup.com/  
+http://signup.1dev.ca/  
+http://www.humaniance.com/  
+http://www.twago.fr/  
+https://www.codeur.com/  
+http://www.404works.com/  
+http://www.withdesigners.com/  
+http://giglrr.com/  
+https://www.linkedin.com/profinder  
+http://about.guuru.io/  
+https://crew.co/  
+http://www.konsus.com/  
+http://www.missioneo.fr  
+http://www.freelance-informatique.fr/  
+http://www.freelance-info.fr  
+https://portfolio10.com/  
+http://www.koder.tech/  
+https://www.hellobonsai.com/  
+https://hire.bid  
 
 ### DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT 
-http://www.listhunt.co
-http://startupli.st/
-https://angel.co/
-http://betalist.com/
-http://startupstash.com/
-http://www.producthunt.com/
-https://www.funderbeam.com
-http://alltopstartups.com/
-http://startupresources.io/
-http://slackstack.io/
-http://avenue.usine-digitale.fr/
-http://growthtools.io/
-makerlist.io
-http://tophunt.info/
+http://www.listhunt.co  
+http://startupli.st/  
+https://angel.co/  
+http://betalist.com/  
+http://startupstash.com/  
+http://www.producthunt.com/  
+https://www.funderbeam.com  
+http://alltopstartups.com/  
+http://startupresources.io/  
+http://slackstack.io/  
+http://avenue.usine-digitale.fr/  
+http://growthtools.io/  
+http://makerlist.io  
+http://tophunt.info/  
 
 
 
 ### STARTUP / INNOVATION
-http://www.presse-citron.net/
-http://www.maddyness.com/
-http://www.usine-digitale.fr/
-http://1001startups.fr/
-http://www.jaimelesstartups.fr/
-http://www.myexperteam.com/
-http://www.soonsoonsoon.com/
-http://www.rendezvousdufutur.com/
-http://www.cuberevue.com/
-http://creative.arte.tv/fr
-htttp://www.knowtex.com
-http://mash-up.fr/
-http://beta.makesense.org/
-http://leweb.co/
-http://www.silicon.fr/
-http://www.itespresso.fr/
-http://frenchweb.fr/
-http://www.pressmyweb.com/
-http://startupstash.com/
-http://lelab.sqli.com
-http://singularityhub.com/
-http://blog.ted.com/
-http://foundersgrid.com/
-http://www.ladn.eu/
-http://www.wproject.fr/
-http://www.ebg.net/programme/
-http://www.fastcompany.com
-http://atlasdesstartups.fr/
-http://www.up.co/
-http://techcrunch.com/startups/
-https://startup.kitchen/
-http://startupgrind.com/   **************
-http://www.rudebaguette.com/   *************
-http://nyc.lafrenchtech.com/
-http://www.nyfrenchgeek.com/
-http://www.producthunt.com/
-http://www.mystrategy.mobi
-http://www.lafrenchtech.com/
-http://www.founderfox.io/
-HTTP://ONBOARDED.CO/
-HTTP://WWW.STARTUPCTO.COM/
-HTTP://REQUESTFORSTARTUP.CO/
-HTTP://WWW.ENTREPRENEUR-ENGINE.COM
-http://www.frenchweb.fr/
+http://www.presse-citron.net/  
+http://www.maddyness.com/  
+http://www.usine-digitale.fr/  
+http://1001startups.fr/  
+http://www.jaimelesstartups.fr/  
+http://www.myexperteam.com/  
+http://www.soonsoonsoon.com/  
+http://www.rendezvousdufutur.com/  
+http://www.cuberevue.com/  
+http://creative.arte.tv/fr  
+htttp://www.knowtex.com  
+http://mash-up.fr/  
+http://beta.makesense.org/  
+http://leweb.co/  
+http://www.silicon.fr/  
+http://www.itespresso.fr/  
+http://frenchweb.fr/  
+http://www.pressmyweb.com/  
+http://startupstash.com/  
+http://lelab.sqli.com  
+http://singularityhub.com/  
+http://blog.ted.com/  
+http://foundersgrid.com/  
+http://www.ladn.eu/  
+http://www.wproject.fr/  
+http://www.ebg.net/programme/  
+http://www.fastcompany.com  
+http://atlasdesstartups.fr/  
+http://www.up.co/  
+http://techcrunch.com/startups/  
+https://startup.kitchen/  
+http://startupgrind.com/   **************  
+http://www.rudebaguette.com/   *************  
+http://nyc.lafrenchtech.com/  
+http://www.nyfrenchgeek.com/  
+http://www.producthunt.com/  
+http://www.mystrategy.mobi  
+http://www.lafrenchtech.com/  
+http://www.founderfox.io/  
+HTTP://ONBOARDED.CO/  
+HTTP://WWW.STARTUPCTO.COM/  
+HTTP://REQUESTFORSTARTUP.CO/  
+HTTP://WWW.ENTREPRENEUR-ENGINE.COM  
+http://www.frenchweb.fr/  
 
-https://startupjuncture.com/
-http://www.say-yess.com/
+https://startupjuncture.com/  
+http://www.say-yess.com/  
 
-http://www.ticketforchange.org/
-HTTP://1000STARTUPS.FR/
-HTTP://TECHBAGUETTE.COM/
-HTTP://WWW.KNOKAL.COM/
-HTTP://WWW.APPYPAPER.COM/
-HTTP://KILLERSTARTUPS.COM/
-HTTP://WWW.IDEALITY.IO/
-HTTP://FIRSTROUND.COM/
-HTTPS://WWW.RUDEBAGUETTE.COM/
-HTTP://STARTUPWINGS.ME/
-HTTP://WWW.INC.COM/
-HTTP://WWW.STARTUPBEGINS.COM
-HTTP://BETAKIT.COM/
-HTTP://JOUANITO.COM/
-HTTP://STARTUPRESOURCES.IO/?REF=PRODUCTHUNT
-HTTP://WWW.PETITWEB.FR/
-HTTP://ONSTARTUPS.COM/
-http://www.socialter.fr/
-http://startupaffiliate.io/
-http://www.usine-digitale.fr
-http://bonjouridee.com/
-https://startupbuffer.com/
-http://www.startupfuckingadvice.com
-http://startupmanual.co/
+http://www.ticketforchange.org/  
+HTTP://1000STARTUPS.FR/  
+HTTP://TECHBAGUETTE.COM/  
+HTTP://WWW.KNOKAL.COM/  
+HTTP://WWW.APPYPAPER.COM/  
+HTTP://KILLERSTARTUPS.COM/  
+HTTP://WWW.IDEALITY.IO/  
+HTTP://FIRSTROUND.COM/  
+HTTPS://WWW.RUDEBAGUETTE.COM/  
+HTTP://STARTUPWINGS.ME/  
+HTTP://WWW.INC.COM/  
+HTTP://WWW.STARTUPBEGINS.COM  
+HTTP://BETAKIT.COM/  
+HTTP://JOUANITO.COM/  
+HTTP://STARTUPRESOURCES.IO/
+HTTP://WWW.PETITWEB.FR/  
+HTTP://ONSTARTUPS.COM/  
+http://www.socialter.fr/  
+http://startupaffiliate.io/  
+http://www.usine-digitale.fr  
+http://bonjouridee.com/  
+https://startupbuffer.com/  
+http://www.startupfuckingadvice.com  
+http://startupmanual.co/  
 
 
 ### Crowdfunding 
