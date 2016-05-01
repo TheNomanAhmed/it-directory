@@ -80,11 +80,9 @@ https://website.grader.com/
 http://www.programmableweb.com/  
 
 
-
-### MOBILE
+### MOBILE APP
 http://bootsy.io/ 
-
-### APPS MOBILE 
+http://iosstack.com
 http://www.ioscookies.com/  
 https://appstarter.io/  
 http://arkenea.com/blog/  
@@ -97,7 +95,7 @@ http://myappfree.com
 http://www.appturbo.com/  
 http://www.application-du-jour.com/  
 https://play.google.com/store/apps/details?id=com.appturbo.appofthenight  
-
+http://welcome.freemyapps.com/advertise.html
 
 ### JURIDIQUE
 http://www.juristesdunumerique.fr/ 
@@ -156,6 +154,9 @@ https://maitreapp.co/
 http://conorth.co/  
 http://www.nowfuckinggrow.com/  
 https://learningtolaunch.co/  
+http://www.audiblegrowth.com
+http://remindpad.com
+http://45.55.235.39/index.php (hashbot)
 
 
 ### SUBMIT LIST
@@ -676,55 +677,54 @@ http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 
 ### PROG BLOG
 mkyong
-http://thejackalofjavascript.com/
-http://www.roseindia.net/
-http://www.moreofit.com/similar-to/www.mkyong.com/Top_10_Sites_Like_Mkyong/
-https://javascriptkicks.com/
+http://thejackalofjavascript.com/  
+http://www.roseindia.net/  
+http://www.moreofit.com/similar-to/www.mkyong.com/Top_10_Sites_Like_Mkyong/  
+https://javascriptkicks.com/  
 
 
 ### WEBSITE AWARDS
-http://www.awwwards.com/
-http://www.cssdesignawards.com/
-http://www.thefwa.com/
-http://www.csswinner.com/
-http://www.webbyawards.com/
-Awwwards, CSSLight, CSSWinner ou CSS Reel, 
-http://ux-design-awards.com/
-http://www.lesappawards.fr/
-http://freshdesign.io
-http://www.uxdesigner.top
+http://www.awwwards.com/  
+http://www.cssdesignawards.com/  
+http://www.thefwa.com/  
+http://www.csswinner.com/  
+http://www.webbyawards.com/  
+Awwwards, CSSLight, CSSWinner ou CSS Reel,   
+http://ux-design-awards.com/  
+http://www.lesappawards.fr/  
+http://freshdesign.io  
+http://www.uxdesigner.top  
 
 
 ### Social professionel
-https://www.linkedin.com/
-http://www.viadeo.com/
-http://www.xing.com/
-http://worketer.com/
-https://geekli.st/home
-https://www.behance.net/
-http://www.expeert.com
-http://www.wizbii.com/
-http://www.yupeek.com/
-http://www.socialmediapro.fr/
-http://w3startup.com/
-+ Smartcasual
-SoonMap
-https://play.google.com/store/apps/details?id=com.nexstreaming.app.flashchat
-http://www.introme.com/
-http://abboom.com/
-
-https://codebee.io/
-http://squelo.com/
-https://www.treatings.co/
+https://www.linkedin.com/  
+http://www.viadeo.com/  
+http://www.xing.com/  
+http://worketer.com/  
+https://geekli.st/home  
+https://www.behance.net/  
+http://www.expeert.com  
+http://www.wizbii.com/  
+http://www.yupeek.com/  
+http://www.socialmediapro.fr/  
+http://w3startup.com/  
++ Smartcasual  
+SoonMap  
+https://play.google.com/store/apps/details?id=com.nexstreaming.app.flashchat  
+http://www.introme.com/  
+http://abboom.com/  
+https://codebee.io/  
+http://squelo.com/  
+https://www.treatings.co/  
 
 ### SECURITE PIRATAGE
-http://www.zataz.com/
-http://thehackernews.com/
-http://www.darkreading.com/
-http://lifehacker.com/
-https://certsimple.com
-https://letsencrypt.org/
-https://gethttpsforfree.com/
+http://www.zataz.com/  
+http://thehackernews.com/  
+http://www.darkreading.com/  
+http://lifehacker.com/  
+https://certsimple.com  
+https://letsencrypt.org/  
+https://gethttpsforfree.com/  
 
 
 
@@ -930,55 +930,61 @@ https://www.digitaweb.com/
 http://www.ekito.fr/  TLSE
 http://legraphoir.com/
 https://diegoquintana.com/en
-http://flavinsky.com/home
-http://w-v.co/
-http://simonfosterdesign.com/home/
-http://www.taradash.ru
-http://www.duhaihang.com
-http://www.andreysoloviev.net  WEB DESIGN
-http://brianhoffdesign.com
-http://svla.co
-http://www.florianwacker.de/en/
-http://www.vanschneider.com/
-http://www.werkstatt.fr/#/home     < 7.9 atelier
-http://antonandirene.com/     < 7.8
-http://www.paulineosmont.com/   < 7.5 source propre
-http://www.nicolastarier.com/  < 7.5 source propre
-http://www.petarstojakovic.net/    < 8 don't be lazy and make your sh.t happen! but being one step ahead of the curve at all times
-http://www.blkcnd.com/ < 7.2
-http://www.legworkstudio.com <7.8
-http://activetheory.net < layout incliné
-http://thisisdk.com
-http://www.evb.com/
-http://maximecostes.fr/
-http://weareroyale.com/#/ **** SVG ANIM
-http://www.fixedgroup.com/
-http://www.webydo.com/   8.18
-http://www.indicius.com/
-http://www.signesduquotidien.org/  <7.5
-http://panache.fr/
-http://pollenlondon.com/
-http://www.thenerodesign.com/ 7.5 LOVE
-http://www.greenwoodcampbell.com/ AGENCY
+http://flavinsky.com/home  
+http://w-v.co/  
+http://simonfosterdesign.com/home/  
+http://www.taradash.ru  
+http://www.duhaihang.com  
+http://www.andreysoloviev.net  WEB DESIGN  
+http://brianhoffdesign.com  
+http://svla.co  
+http://www.florianwacker.de/en/  
+http://www.vanschneider.com/  
+http://www.werkstatt.fr/#/home     < 7.9 atelier  
+http://antonandirene.com/     < 7.8  
+http://www.paulineosmont.com/   < 7.5 source propre  
+http://www.nicolastarier.com/  < 7.5 source propre  
+http://www.petarstojakovic.net/    < 8 don't be lazy and make your sh.t happen! but being one step ahead of the curve at all times  
+http://www.blkcnd.com/ < 7.2  
+http://www.legworkstudio.com <7.8  
+http://activetheory.net < layout incliné  
+http://thisisdk.com  
+http://www.evb.com/  
+http://maximecostes.fr/    
+http://weareroyale.com/#/ **** SVG ANIM  
+http://www.fixedgroup.com/  
+http://www.webydo.com/   8.18  
+http://www.indicius.com/  
+http://www.signesduquotidien.org/  <7.5  
+http://panache.fr/  
+http://pollenlondon.com/  
+http://www.thenerodesign.com/ 7.5 LOVE  
+http://www.greenwoodcampbell.com/ AGENCY  
 http://www.deutser.com/services  AGENCY 
-AL WORK
-http://www.sweetpunk.com/
-http://www.julienrenvoye.fr/
-http://nlee.ru/en/
-http://riccardomarconato.it/about   8 JAIME
-https://dpdk.com/
-http://www.junior.io/
-http://ueno.co/
-http://redcollar.digital/
-http://minnim.tv/en
-http://lagier-kevin.com/#!/  8 IMPRESSIONANT
-http://stevenmengin.com/ 8 OPEN GL EXAMPLE
-http://samsy.ninja/ 8 OPEN GL + A SUIVRE
-http://sonorans-valley.com/ A TESTER
-https://studiorotate.com/ 8.5 A TEST
-http://www.hochburg.net/en/ 8  A TEST
-http://www.nurturedigital.com/ A TEST
-http://www.poigneedemainvirile.com/
-http://hengpatrick.fr/  HETIC/CANVAS/WEBGL
-http://robinmastromarino.com/ HETIC/CANVAS/WEBGL/VUEJS/PIXIJS (STYLE MENUSLIDER)
-http://www.fcinq.com/
+http://www.sweetpunk.com/  
+http://www.julienrenvoye.fr/  
+http://nlee.ru/en/  
+http://riccardomarconato.it/about   8 JAIME  
+https://dpdk.com/  
+http://www.junior.io/  
+http://ueno.co/  
+http://redcollar.digital/  
+http://minnim.tv/en  
+http://lagier-kevin.com/#!/  8 IMPRESSIONANT  
+http://stevenmengin.com/ 8 OPEN GL EXAMPLE  
+http://samsy.ninja/ 8 OPEN GL + A SUIVRE  
+http://sonorans-valley.com/ A TESTER  
+https://studiorotate.com/ 8.5 A TEST  
+http://www.hochburg.net/en/ 8  A TEST  
+http://www.nurturedigital.com/ A TEST  
+http://www.poigneedemainvirile.com/  
+http://hengpatrick.fr/  HETIC/CANVAS/WEBGL  
+http://robinmastromarino.com/ HETIC/CANVAS/WEBGL/VUEJS/PIXIJS (STYLE MENUSLIDER)  
+http://www.fcinq.com/  
+http://bundy.madebywild.com/ 9  
+http://xavierbourdil.com/ 8  
+http://www.patriciablanchet.com/ 8  
+https://cavalierchallenge.com/  
+http://www.plasticbcn.com/  
+http://maevabarriere.com/  
+http://pro.boombotix.com/  
