@@ -1,3 +1,56 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [it-directory](#it-directory)
+    - [AGILE](#agile)
+    - [OFFICE](#office)
+    - [HOSTING](#hosting)
+    - [NEWS FUN](#news-fun)
+    - [WEBMASTERS](#webmasters)
+    - [MASHUP](#mashup)
+    - [MOBILE](#mobile)
+    - [APPS MOBILE](#apps-mobile)
+  - [PROMOTE APPS](#promote-apps)
+    - [JURIDIQUE](#juridique)
+    - [ALLS](#alls)
+    - [IOT](#iot)
+    - [FUTUR/DISRUPTIF](#futurdisruptif)
+    - [VIRTUAL REALITY](#virtual-reality)
+    - [GROW  SITES](#grow--sites)
+    - [SUBMIT LIST](#submit-list)
+    - [GAMES](#games)
+    - [VENTURE / INVESTORS / ASSOS / INCUBATOR](#venture--investors--assos--incubator)
+    - [ADVERTISING](#advertising)
+    - [STREAMING](#streaming)
+    - [INNOVATION](#innovation)
+    - [ANNUAIRE MEMBER/LINK](#annuaire-memberlink)
+    - [WEBTV](#webtv)
+    - [TOULOUSE](#toulouse)
+    - [COWORKING/TRAVEL / NOMADS](#coworkingtravel--nomads)
+    - [RESOURCES](#resources)
+  - [FREELANCE](#freelance)
+    - [DIRECTORY / BRAND NEW STARTUP / ANNUAIRE IT](#directory--brand-new-startup--annuaire-it)
+    - [STARTUP / INNOVATION](#startup--innovation)
+    - [Crowdfunding](#crowdfunding)
+    - [IT général](#it-g%C3%A9n%C3%A9ral)
+    - [Programmation / Developpement / Programming](#programmation--developpement--programming)
+    - [APIS](#apis)
+    - [AI](#ai)
+    - [COMMUNITY MANAGER / MARKETING / STRATEGIES / E COMMERCE](#community-manager--marketing--strategies--e-commerce)
+    - [UX DESIGN](#ux-design)
+    - [IHM/UX TOOLS](#ihmux-tools)
+    - [WEBDESIGN](#webdesign)
+    - [WEBDESIGN RESSOURCES](#webdesign-ressources)
+    - [PROG BLOG](#prog-blog)
+    - [WEBSITE AWARDS](#website-awards)
+    - [Social professionel](#social-professionel)
+    - [SECURITE PIRATAGE](#securite-piratage)
+    - [The most beautifull websites](#the-most-beautifull-websites)
+    - [UX/DIGITAL PROFESIONNAL](#uxdigital-profesionnal)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # it-directory
 
 
@@ -23,8 +76,27 @@ http://userinput.io/
 http://www.bugreplay.com/ 
 https://website.grader.com/ 
 
+### MASHUP
+http://www.programmableweb.com/  
+
+
+
 ### MOBILE
 http://bootsy.io/ 
+
+### APPS MOBILE 
+http://www.ioscookies.com/  
+https://appstarter.io/  
+http://arkenea.com/blog/  
+http://principlerepo.com/  
+http://principleformac.com/  
+
+## PROMOTE APPS
+http://appgratis.com  
+http://myappfree.com  
+http://www.appturbo.com/  
+http://www.application-du-jour.com/  
+https://play.google.com/store/apps/details?id=com.appturbo.appofthenight  
 
 
 ### JURIDIQUE
@@ -123,7 +195,7 @@ http://www.angelsquare.co
 http://www.francedigitale.org/  
 http://www.capdigital.com/  
 http://pitchoun.via-innova.com/  
-
+https://gust.com/
 
 ### ADVERTISING
 http://sublimeskinz.com/  
@@ -156,23 +228,6 @@ venturebeat.com
 ### WEBTV
 http://www.xerficanal.com/  
 
-### MASHUP
-http://www.programmableweb.com/  
-
-
-### APPS MOBILE 
-http://www.ioscookies.com/  
-https://appstarter.io/  
-http://arkenea.com/blog/  
-http://principlerepo.com/  
-http://principleformac.com/  
-
-## PROMOTE APPS
-http://appgratis.com  
-http://myappfree.com  
-http://www.appturbo.com/  
-http://www.application-du-jour.com/  
-https://play.google.com/store/apps/details?id=com.appturbo.appofthenight  
 
 
 ### TOULOUSE
@@ -203,6 +258,7 @@ https://www.roam.co
 http://outsite.co/  
 http://www.legalnomads.com/digital-nomads  
 http://www.cohome.in/  
+https://skiller.fr/
 
 ### RESOURCES
 http://www.dreamstime.com/  
@@ -925,3 +981,4 @@ http://www.nurturedigital.com/ A TEST
 http://www.poigneedemainvirile.com/
 http://hengpatrick.fr/  HETIC/CANVAS/WEBGL
 http://robinmastromarino.com/ HETIC/CANVAS/WEBGL/VUEJS/PIXIJS (STYLE MENUSLIDER)
+http://www.fcinq.com/
