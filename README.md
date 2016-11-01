@@ -53,11 +53,16 @@
 
 # it-directory
 
+### WORDPRESS
+http://wp-rocket.me/fr/
 
 ### AGILE
-icescrum 
-taiga 
-trello 
+https://www.icescrum.com/
+https://taiga.io/
+https://trello.com/
+https://www.teammood.com/fr/
+https://www.openproject.org/
+https://kanbanize.com
 
 ### OFFICE
 https://www.bird-office.com/ 
@@ -75,6 +80,7 @@ https://kloudsec.com
 http://userinput.io/ 
 http://www.bugreplay.com/ 
 https://website.grader.com/ 
+http://www.copypastecharacter.com/  ASCII
 
 ### MASHUP
 http://www.programmableweb.com/  
@@ -98,8 +104,13 @@ https://play.google.com/store/apps/details?id=com.appturbo.appofthenight
 http://welcome.freemyapps.com/advertise.html
 
 ### JURIDIQUE
+http://www.jurismatic.com/  
+https://www.legalife.fr/  
+https://www.legalstart.fr/
+https://www.legalife.fr/modele/cgv-et-cgu-pour-les-services-en-ligne
 http://www.juristesdunumerique.fr/ 
-
+http://www.murielle-cahen.com/publications/application.asp
+http://www.meetmeup.fr/cgu-meetmeup/
 
 ### ALLS
 http://www.listhunt.co/12-new-startups-apps-gadgets-millennials-should-care-about-today-7615/ 
@@ -136,6 +147,7 @@ https://forums.oculus.com
 VRTube.xxx   
 
 ### GROW  SITES 
+https://blog.bufferapp.com/free-twitter-tools
 http://www.growhack.com  
 http://growthhackers.com/  
 http://growthtools.io  
@@ -157,9 +169,27 @@ https://learningtolaunch.co/
 http://www.audiblegrowth.com
 http://remindpad.com
 http://45.55.235.39/index.php (hashbot)
+https://ninjaoutreach.com/
+https://www.helpareporter.com
+
+### GROW SOCIAL
+http://snaplytics.io/
+https://instagress.com
+https://www.archie.co/
+https://www.crowdfireapp.com/
+https://blog.bufferapp.com/instagram-growth
+
+### GROW HACK TOOLS
+https://hunter.io
+https://prospect.io
+https://anygrowth.com/
+https://www.datananas.com/fr/
+
 
 
 ### SUBMIT LIST
+https://submit.co/
+https://www.hey.press/
 http://presshour.co/  
 https://startuplister.com/list-of-startup-directories/  
 http://promotehour.com/  list submission startup  
@@ -170,6 +200,8 @@ https://igostartup.com/places-to-submit-your-startup
 http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup/  
 http://www.inboundio.com/blog/27-websites-to-submit-your-startup/  
 https://growthlist.co/  
+https://ninjaoutreach.com/startup-directories/
+https://justreachout.io/
 
 ### GAMES
 http://bad.city  
@@ -197,15 +229,18 @@ http://www.francedigitale.org/
 http://www.capdigital.com/  
 http://pitchoun.via-innova.com/  
 https://gust.com/
+http://www.sparkup.fr/
+http://1001startups.fr/startup-sur-quoi-baser-la-valorisation/
+
 
 ### ADVERTISING
 http://sublimeskinz.com/  
 http://www.thalamus.co/  
-ADventori  
+https://www.adventori.com/fr/
 https://www.chartboost.com/  
 https://my.tapjoy.com/  
 http://www.mopub.com  
-
+http://www.ogury.co/
 
 ### STREAMING
 https://popcorntime.io/  
@@ -237,14 +272,19 @@ http://workdesigners.com/
 http://www.frenchtechtoulouse.com/  
 
 ### COWORKING/TRAVEL / NOMADS
-http://lacantine-toulouse.org/  
+https://www.neo-nomade.com/
+https://nomadbase.io/
+https://workfrom.co/
+https://startupretreats.com/
+http://www.bedndesk.com/ MALLORCA
+https://flyonward.com/en/
 https://nomadlist.com/  
 http://wesh.im/  
 http://www.wifimap.io  
 https://crew.co/coffee-power/  
 http://hubitus.com/  
 http://www.coworker.com/  
-http://www.hubsy.fr/  
+http://www.hubsy.fr/  (paris)
 http://launch.mobshr.com/  
 https://www.nevereatalone.io/  
 https://nomadhouse.io  
@@ -260,10 +300,48 @@ http://outsite.co/
 http://www.legalnomads.com/digital-nomads  
 http://www.cohome.in/  
 https://skiller.fr/
+https://frenchwork.fr/
+https://www.devfriendlyplaces.net (FRANCE)
+http://digitalnomadsforum.com/
+
+http://www.harrycow.com/ (toulouse)
+http://athome-startup.fr/ (toulouse)
+http://oikosysteme.com/ (toulouse)
+http://digital-village.fr/ (toulouse)
+http://www.imaginationsfertiles.fr/ (toulouse)
+http://tau.so/ (toulouse)
+https://www.cooloffice.space/ (toulouse)
+http://www.coworking-toulouse.com/ (toulouse)
+http://lacantine-toulouse.org/  (toulouse)
+https://toulouse.devfriendlyplaces.net/ (toulouse)
+
+
+### STOCK PHOTOS
+Unsplash http://unsplash.com/
+Death to the Stock Photo http://join.deathtothestockphoto.com/
+New Old Stock http://nos.twnsnd.co/
+Superfamous (requires attribution) http://superfamous.com/
+Picjumbo http://picjumbo.com/
+The Pattern Library http://thepatternlibrary.com/
+Gratisography http://www.gratisography.com/
+Getrefe http://getrefe.tumblr.com/
+IM Free (requires attribution) http://imcreator.com/free
+Jay Mantri http://jaymantri.com/
+Women of color in tech https://www.flickr.com/photos/wocintechchat/
+Public Domain Archive http://publicdomainarchive.com/
+Magdeleine http://magdeleine.co/
+Foodiesfeed http://foodiesfeed.com
+Picography http://picography.co/
+Raumrot http://www.raumrot.com/10/
+ISO Republic http://isorepublic.com/
+https://www.pexels.com
+http://www.dreamstime.com/
+https://pixabay.com
+http://www.coverr.co  
 
 ### RESOURCES
-http://www.dreamstime.com/  
-http://www.coverr.co  
+http://www.heropatterns.com/
+https://goanimate.com
 http://www.flixapp.co/  
 http://vidlogs.com/  
 http://startupstash.com/  
@@ -271,8 +349,6 @@ http://fribly.com/
 http://www.bookstck.com/  
 https://randomuser.me/  
 http://uifaces.com/  
-http://www.jurismatic.com/  
-https://www.legalife.fr/  
 http://drocarmo.com/resources/  
 http://www.entrepreneur.com/article/247505   *********** STARTUP  
 https://blog.kissmetrics.com/entrepreneurs-handbook/  
@@ -281,7 +357,6 @@ http://steveblank.com/tools-and-blogs-for-entrepreneurs/#startup-tools
 http://www.getmdl.io/   MATERIAL DESIGN  
 http://flatuicolors.com/  
 http://digitalsynopsis.com/tools/free-flat-design-icons/  
-https://slack.com/  
 http://signupfirst.com/  
 https://founderskit.co/  
 https://www.hellobonsai.com/  
@@ -333,7 +408,6 @@ http://fontello.com/
 http://launch.flip-7.co.uk/  
 https://medium.com/life-learning/77-tools-to-build-a-website-or-app-without-code-cc716b9b507a#.9ia9jy122  
 http://elegantt.com/trello/  
-http://slackstack.io/?ref=producthunt  
 http://www.petite-entreprise.net/  
 http://hexwalk.in/  
 http://matte.black/01d088  
@@ -347,12 +421,12 @@ https://milligram.github.io/
 https://entrepreneur-tools.zeef.com/  
 http://digitaltools.directory/  
 https://medium.com/swlh/announcing-unsplash-4-0-3421b47d8f88#.mdv4q29s8  
-
+https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b#.ket2oj73n
 
 https://thepitch.vc/b/the-most-epic-collection-of-podcasts-for-startup-founders/  
 http://www.listhunt.co/78-best-new-startup-tools-for-every-type-of-entreprenuer/  
 http://www.listhunt.co/11-new-tools-for-entrepreneurs-startup-founders/  
-
+http://kitdesurvie.metiers-graphiques.fr/
 
 
 
@@ -398,12 +472,17 @@ http://www.producthunt.com/
 https://www.funderbeam.com  
 http://alltopstartups.com/  
 http://startupresources.io/  
-http://slackstack.io/  
 http://avenue.usine-digitale.fr/  
 http://growthtools.io/  
 http://makerlist.io  
 http://tophunt.info/  
 
+### TOOLS COMMUNICATION ASSO / ENTERPRISE
+http://slackstack.io/
+https://slack.com/  
+https://framateam.org
+https://www.mattermost.org/
+https://rocket.chat/
 
 
 ### STARTUP / INNOVATION
@@ -479,6 +558,9 @@ http://bonjouridee.com/
 https://startupbuffer.com/  
 http://www.startupfuckingadvice.com  
 http://startupmanual.co/  
+http://themacro.com/
+http://www.recode.net/
+http://www.startup-story.fr/
 
 
 ### Crowdfunding 
@@ -496,7 +578,7 @@ https://www.kickstarter.com/
 http://jumpstrtr.com/
 http://www.raizers.com/
 http://weseed.co/
-
+https://www.anaxago.com/
 
 ### IT général
 http://www.itworld.com
@@ -559,7 +641,7 @@ http://musicforprogramming.net/
 http://devops.com/
 https://devchat.tv/
 https://www.packtpub.com/
-
+https://hackernoon.com/
 
 ### APIS
 https://apiplug.com/
@@ -582,6 +664,11 @@ https://apis.io/
 https://www.apitools.com/
 https://www.3scale.net/
 https://wrapapi.com
+
+## CLOUD BACKEND DATABASE
+http://horizon.io/
+http://www.kinto-storage.org/
+
 
 ### AI
 www.botlibre.org/
@@ -675,13 +762,13 @@ http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-sche
 http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 
 
-### PROG BLOG
+### PROG BLOG / DEV SITE
 mkyong
 http://thejackalofjavascript.com/  
 http://www.roseindia.net/  
 http://www.moreofit.com/similar-to/www.mkyong.com/Top_10_Sites_Like_Mkyong/  
 https://javascriptkicks.com/  
-
+http://devmag.fr/
 
 ### WEBSITE AWARDS
 http://www.awwwards.com/  
@@ -855,6 +942,9 @@ http://thelawofthejungle.com/
 http://falter.madebywild.com/ 8.5
 http://www.studiomarani.it/en/ 8
 http://www.adidas.co.uk/climazone (tout en bas layout 3 colonne dynamique)
+http://saintepaix.com/   barre vertical et horizontale (style LS)
+http://www.melville-design.com/	animation parallax
+http://ony-france.com/ slide collection vetement
 
 
 ### UX/DIGITAL PROFESIONNAL
@@ -988,3 +1078,13 @@ https://cavalierchallenge.com/
 http://www.plasticbcn.com/  
 http://maevabarriere.com/  
 http://pro.boombotix.com/  
+http://resn.co.nz/#			9 PSYCHO
+http://bravepeople.co/
+http://cuberto.com/
+http://www.ostrolucky.com/en 8 TABLE BOIS
+http://counterclimate.converse.com/ video modifiable
+http://swissarmyman.com/ interaction clavier
+http://bilan-trends2016.heed.agency/ ANIMATION A VOIR
+http://www.not-studio.com/ (simple layout inspiration)
+https://www.biig.fr/ (a lot of animation)
+https://www.waaark.com realisation de site web bien connu
